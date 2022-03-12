@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064289577578",
+    "project_id": "dashboard-iot-cd3ab",
+    "storage_bucket": "dashboard-iot-cd3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064289577578:android:4dc026bf419f306c28f813",
+        "android_client_info": {
+          "package_name": "ir40.c.dashboardiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064289577578-t8uo2ljr9ubjq1bi45k983us6kq0s1bl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir40.c.dashboardiot",
+            "certificate_hash": "02da9744d8fb94ced3bd70298f0e719a2028d0bf"
+          }
+        },
+        {
+          "client_id": "1064289577578-vejubop9oam6g89r263kcsaef2i867n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjylSqO-PMrEc4xeiEUGi3X5_dlp4t_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064289577578-vejubop9oam6g89r263kcsaef2i867n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
